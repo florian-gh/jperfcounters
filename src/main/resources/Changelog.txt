@@ -1,0 +1,7 @@
+
+
+
+
+
+
+[2017-05-19] Changelog started for version 0.2.5. This file must be stored in UTF-8 charset.
